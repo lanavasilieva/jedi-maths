@@ -3,16 +3,16 @@
 ## Schedule
 
 ### If you are in Starpilots group:
-Nest Lessons:
+Next Lessons:
 **Monday, Jun 22, 10:00**
 
 ### If you are in Younglings group:
-Nest Lessons:
+Next Lessons:
 **Friday, Jun 19, 10:00**
 **Friday, Jun 26, 10:00**
 
 ### If you are in Padawans group:
-Nest Lessons:
+Next Lessons:
 **Friday, Jun 19, 11:00**
 **Friday, Jun 26, 11:00**
 
