@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Jedi Academy: Mathematics. Summer 2020
 
-You can use the [editor on GitHub](https://github.com/lanavasilieva/jedi-maths/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### If you are in Starpilots group:
+Nest Lessons:
+**Monday, Jun 22, 10:00**
 
-### Markdown
+### If you are in Younglings group:
+Nest Lessons:
+**Friday, Jun 19, 10:00**
+**Friday, Jun 26, 10:00**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### If you are in Padawans group:
+Nest Lessons:
+**Friday, Jun 19, 11:00**
+**Friday, Jun 26, 11:00**
 
-```markdown
-Syntax highlighted code block
+Zoom link is sent via Telegram 10 mins before lecture starts
 
-# Header 1
-## Header 2
-### Header 3
+## Homework
+### Starpilots
+**Deadline: Sunday, Jun 21, 20:00**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Younglings
+**Deadline: Monday, Jun 22, 20:00**
+Exercise 1: fill in the chart below
 
-**Bold** and _Italic_ and `Code` text
+**Deadline: Wednesday, Jun 24, 20:00**
+Define rules for interval notation
 
-[Link](url) and ![Image](src)
-```
+**Deadline: Thursday, Jun 25: 20:00**
+Exercises 9 - 19: write the set using interval notation
+Prepare to describe what N, Z, Q, R mean
+Prepare to describe all operations on Sets
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Padawans
+**Deadline: Monday, Jun 22, 20:00**
+Exercise 1: fill in the chart below
 
-### Jekyll Themes
+**Deadline: Wednesday, Jun 24, 20:00**
+Define rules for interval notation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lanavasilieva/jedi-maths/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Deadline: Thursday, Jun 25: 20:00**
+Exercises 9 - 19: write the set using interval notation
+Prepare to describe what N, Z, Q, R mean
+Prepare to describe all operations on Sets
+Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
