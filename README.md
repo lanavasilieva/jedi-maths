@@ -4,17 +4,17 @@
 
 ### If you are in Starpilots group:
 Next Lessons:
-**Monday, Jun 22, 10:00**
+Monday, Jun 22, 10:00
 
 ### If you are in Younglings group:
-Next Lessons:\
-**Friday, Jun 19, 10:00**\
-**Friday, Jun 26, 10:00**
+Next Lessons:
+Friday, Jun 19, 10:00
+Friday, Jun 26, 10:00
 
 ### If you are in Padawans group:
-Next Lessons:\
-**Friday, Jun 19, 11:00**\
-**Friday, Jun 26, 11:00**
+Next Lessons:
+Friday, Jun 19, 11:00
+Friday, Jun 26, 11:00
 
 Zoom link is sent via Telegram 10 mins before lecture starts
 
@@ -28,8 +28,8 @@ Exercise 1: fill in the chart below
 Exercise 1: fill in the chart below
 
 **Deadline: Thursday, Jun 25: 20:00**
-Exercises 8 - 19: write the set using interval notation\
-Prepare to describe what N, Z, Q, R mean\
+Exercises 8 - 19: write the set using interval notation
+Prepare to describe what N, Z, Q, R mean
 Prepare to describe all operations on Sets (intersection, uniion, difference)
 
 ### Padawans
@@ -37,9 +37,9 @@ Prepare to describe all operations on Sets (intersection, uniion, difference)
 Exercise 1: fill in the chart below
 
 **Deadline: Thursday, Jun 25: 20:00**
-Exercises 8 - 19: write the set using interval notation\
-Prepare to describe what N, Z, Q, R mean\
-Prepare to describe all operations on Sets (intersection, uniion, difference)\
+Exercises 8 - 19: write the set using interval notation
+Prepare to describe what N, Z, Q, R mean \
+Prepare to describe all operations on Sets (intersection, uniion, difference) \
 Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
 
 ![Exercise 1: Chart](https://github.com/lanavasilieva/jedi-maths/blob/master/Screen%20Shot%202020-06-19%20at%2011.41.32%20AM.png)
