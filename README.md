@@ -28,19 +28,19 @@ Exercise 1: fill in the chart below
 Exercise 1: fill in the chart below
 
 **Deadline: Thursday, Jun 25: 20:00** <br>
-Exercises 8 - 19: write the set using **interval notation** (use operations if necessary!) and draw it on Real Numbers Line <br>
-Prepare to describe what N, Z, Q, R mean <br>
-Prepare to describe all operations on Sets (intersection, uniion, difference)
+1. Exercises 8 - 19: write the set using **interval notation** (use operations if necessary!) and draw it on Real Numbers Line <br>
+2. Prepare to describe what N, Z, Q, R mean <br>
+3. Prepare to describe all operations on Sets (intersection, uniion, difference)
 
 ### Padawans
 **Deadline: Monday, Jun 22, 20:00** <br>
 Exercise 1: fill in the chart below
 
 **Deadline: Thursday, Jun 25: 20:00** <br>
-Exercises 8 - 19: write the set using **interval notation** (use operations if necessary!) and draw it on Real Numbers Line <br>
-Prepare to describe what N, Z, Q, R mean <br>
-Prepare to describe all operations on Sets (intersection, uniion, difference) <br>
-Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
+1. Exercises 8 - 19: write the set using **interval notation** (use operations if necessary!) and draw it on Real Numbers Line <br>
+2. Prepare to describe what N, Z, Q, R mean <br>
+3. Prepare to describe all operations on Sets (intersection, uniion, difference) <br>
+4. Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
 
 
 Exercise 1: <br>
