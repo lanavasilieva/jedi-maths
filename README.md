@@ -42,7 +42,10 @@ Prepare to describe what N, Z, Q, R mean \
 Prepare to describe all operations on Sets (intersection, uniion, difference) \
 Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
 
+
+Exercise 1: \
 ![Exercise 1: Chart](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.32%20AM.png)
 
+Exercises 8 - 19: \
 ![Exercise 8 - 10](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.41%20AM.png)
 ![Exercise 11 - 19](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.52%20AM.png)
