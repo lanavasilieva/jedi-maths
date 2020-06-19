@@ -28,7 +28,7 @@ Exercise 1: fill in the chart below
 Exercise 1: fill in the chart below
 
 **Deadline: Thursday, Jun 25: 20:00** \
-Exercises 8 - 19: write the set using interval notation \
+Exercises 8 - 19: write the set using **interval notation** (use operations if necessary!) and draw it on Real Numbers Line \
 Prepare to describe what N, Z, Q, R mean \
 Prepare to describe all operations on Sets (intersection, uniion, difference)
 
@@ -37,7 +37,7 @@ Prepare to describe all operations on Sets (intersection, uniion, difference)
 Exercise 1: fill in the chart below
 
 **Deadline: Thursday, Jun 25: 20:00** \
-Exercises 8 - 19: write the set using interval notation \
+Exercises 8 - 19: write the set using **interval notation** (use operations if necessary!) and draw it on Real Numbers Line \
 Prepare to describe what N, Z, Q, R mean \
 Prepare to describe all operations on Sets (intersection, uniion, difference) \
 Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
