@@ -30,13 +30,13 @@ Exercise 1: fill in the chart below
 **Deadline: Thursday, Jun 25: 20:00** \
 Exercises 8 - 19: write the set using interval notation \
 Prepare to describe what N, Z, Q, R mean \
-Prepare to describe all operations on Sets (intersection, uniion, difference) \
+Prepare to describe all operations on Sets (intersection, uniion, difference)
 
 ### Padawans
 **Deadline: Monday, Jun 22, 20:00** \
 Exercise 1: fill in the chart below
 
-**Deadline: Thursday, Jun 25: 20:00**
+**Deadline: Thursday, Jun 25: 20:00** \
 Exercises 8 - 19: write the set using interval notation \
 Prepare to describe what N, Z, Q, R mean \
 Prepare to describe all operations on Sets (intersection, uniion, difference) \
@@ -44,5 +44,5 @@ Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-
 
 ![Exercise 1: Chart](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.32%20AM.png)
 
-![Exercise 8 - 10](https://github.com/lanavasilieva/jedi-maths/blob/master/Screen%20Shot%202020-06-19%20at%2011.41.41%20AM.png)
-![Exercise 11 - 19](https://github.com/lanavasilieva/jedi-maths/blob/master/Screen%20Shot%202020-06-19%20at%2011.41.52%20AM.png)
+![Exercise 8 - 10](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.41%20AM.png)
+![Exercise 11 - 19](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.52%20AM.png)
