@@ -4,8 +4,9 @@
 
 ### If you are in Starpilots group:
 Next Lessons: <br>
-**Monday, Jun 22, 10:00**
-
+Monday, Jun 22, 10:00 <br>
+**Monday, Jun 29, 10:00 **
+ 
 ### If you are in Younglings group:
 Next Lessons: <br>
 Friday, Jun 19, 10:00 <br>
@@ -21,7 +22,10 @@ Zoom link is sent via Telegram 10 mins before lecture starts
 ## Homework
 ### Starpilots
 **Deadline: Monday, Jun 22, 20:00** <br>
-Exercise 1: fill in the chart below
+Intervals:
+[1, 5]
+[5, 9]
+[1, 7)
 
 ### Younglings
 **Deadline: Monday, Jun 22, 20:00** <br>
