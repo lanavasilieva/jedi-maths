@@ -53,12 +53,12 @@ Exercise 1: <br>
 ![Exercise 1: Chart](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.32%20AM.png)
 
 Exercise 1: Answers: <br>
-![!Exercise 1: Answers](https://github.com/lanavasilieva/jedi-maths/blob/master/Screen%20Shot%202020-06-25%20at%2010.48.14%20PM.png)
+![!Exercise 1: Answers](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-25%20at%2010.48.14%20PM.png)
 
 Exercises 8 - 19: <br>
 ![Exercise 8 - 10](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.41%20AM.png)
 ![Exercise 11 - 19](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.52%20AM.png)
 
 Exercise 8 - 19: Some answers: <br>
-![Exercise 8 - 19: Some answers I](https://github.com/lanavasilieva/jedi-maths/blob/master/Screen%20Shot%202020-06-25%20at%2010.48.38%20PM.png)
-![Exercise 8 - 19: Some answers II](https://github.com/lanavasilieva/jedi-maths/blob/master/Screen%20Shot%202020-06-25%20at%2010.48.54%20PM.png)
+![Exercise 8 - 19: Some answers I](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-25%20at%2010.48.38%20PM.png)
+![Exercise 8 - 19: Some answers II](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-25%20at%2010.48.54%20PM.png)
