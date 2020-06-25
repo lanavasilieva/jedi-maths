@@ -48,6 +48,7 @@ Exercise 1: fill in the chart below
 3. Prepare to describe all operations on Sets (intersection, uniion, difference) <br>
 4. Learn about [Distance formula](https://www.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance/a/distance-formula)
 
+***There is (obviously) several mistakes in answers. Please report via Telegram if you find them.***
 
 Exercise 1: <br>
 ![Exercise 1: Chart](https://raw.githubusercontent.com/lanavasilieva/jedi-maths/master/Screen%20Shot%202020-06-19%20at%2011.41.32%20AM.png)
