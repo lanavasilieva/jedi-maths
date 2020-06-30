@@ -9,6 +9,6 @@
 [Padawans Homework](padawans.md#homeworks)
 
 ## [Starpilots](starpilots.md)
-Starpilots Schedule <br>
-Starpilots Homework
+[Starpilots Schedule](starpilots.md#schedule) <br>
+[Starpilots Homework](starpilots.md#homeworks)
 
