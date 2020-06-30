@@ -1,12 +1,12 @@
 # Jedi Academy: Mathematics. Summer 2020
 
 ## [Younglings](younglings.md)
-Younglings Schedule <br>
-Younglings Homework
+[Younglings Schedule](younglings.md#schedule) <br>
+[Younglings Homework](younglings.md#homeworks)
 
 ## [Padawans](padawans.md)
-Padawans Schedule <br>
-Padawans Homework
+[Padawans Schedule](padawans.md#schedule) <br>
+[Padawans Homework](padawans.md#homeworks)
 
 ## [Starpilots](starpilots.md)
 Starpilots Schedule <br>
