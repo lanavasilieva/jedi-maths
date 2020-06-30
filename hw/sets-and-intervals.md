@@ -2,7 +2,7 @@
 ## **Deadline: 2 июля, 15:00** <br>
 
 ### Заполните таблицу <br>
-![HW2](../files/1.png) <br>
+![HW2](../files/sets-intervals-y-p.png) <br>
 
 ### Дополнительное задание (по желанию, deadline 2 июля 20:00) <br>
 ![optional-task1](../files/op1.png) <br>
