@@ -6,11 +6,11 @@
 Диана <br>
 Ярослав <br>
 
-|   	|Борис   	|Матвей   	|Диана   	|Ярослав   	|
-|---	|---	|---	|---	|---	|
-| Занятие 26 июня|+|+|+|+|
-| ДЗ: Sets and Intervals|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+||Борис|Матвей|Диана|Ярослав|
+|---|---|---|---|---|
+|Занятие 26 июня|+|+|+|+|
+|ДЗ: Sets and Intervals|||||
+|Занятие 3 июля|||||
 
 ## Schedule
 26 июня, 11:00 <br>
@@ -21,6 +21,11 @@ Next: **3 июля, 11:00** <br>
 31 июля, 11:00 <br>
 
 ## Homeworks
+### [Sets and Intervals](hw/sets-and-intervals.md)
 **Deadline: 2 июля, 15:00** <br>
-Заполните таблицу <br>
-![HW2](Screen%20Shot%202020-06-30%20at%206.31.09%20PM.png)
+
+### [Cartesian Coordinate System - I](hw/cartesian-coordinate-system.md#part-1)
+**Deadline: 7 июля, 15:00** <br>
+
+### [Cartesian Coordinate System - II](hw/cartesian-coordinate-system.md#part-2)
+**Deadline: 9 июля, 15:00** <br>
