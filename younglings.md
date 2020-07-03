@@ -9,13 +9,16 @@
 ||Саша|Леша|Гриша|Юля|
 |---|---|---|---|---|
 |Занятие 26 июня|+|+|+|+|
-|ДЗ: Sets and Intervals|||||
-|Занятие 3 июля|||||
+|ДЗ: Sets and Intervals|+|+|+|+|
+|Занятие 3 июля|+|+|+|+|
+|ДЗ: Cartesian Coordinate System - I|||||
+|ДЗ: Cartesian Coordinate System - II|||||
+|ДЗ: Cartesian Coordinate System - III Optional|||||
 
 ## Schedule
 26 июня, 10:00 <br>
-Next: **3 июля, 10:00** <br>
-10 июля, 10:00 <br>
+3 июля, 10:00 <br>
+Next: **10 июля, 10:00** <br>
 17 июля, 10:00 <br>
 24 июля, 10:00 <br>
 31 июля, 10:00 <br>
